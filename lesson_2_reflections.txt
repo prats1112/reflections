@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-- sync to git and track your changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-- more so as the interim layer. So bundle all our changes at once.
